@@ -33,8 +33,8 @@ B. Connect an Android device or an android emulator
 
 C. Build and run the flutter app using the following command:
 
-  flutter run or run
-  flutter build apk --this should work for both ios and android.
+  flutter run ----or run
+  flutter build apk ----this should work for both ios and android.
  
 ## For iOS
 A. Navigate to the project directory:
