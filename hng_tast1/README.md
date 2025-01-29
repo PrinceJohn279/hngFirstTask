@@ -11,8 +11,10 @@ You could clone this repo on VSCode or Android studio using version control othe
 
 ## Clone
 
-A. Open a terminal.
+A. Open a terminal
+
 B. Clone the repository using the following command in your terminal:
+
 git clone <https://github.com/PrinceJohn279/hngFirstTask.git>
 
 ## Build App
